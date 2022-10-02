@@ -1,4 +1,4 @@
-                                                                    Named-Entity-Recognition
+                                                      Named-Entity-Recognition
   
 Named entity recognition (NER) helps you easily identify the key elements in a text, like names of people, places, brands, monetary values, and more. 
 Extracting the main entities in a text helps sort unstructured data and detect important information, which is crucial if you have to deal with large datasets.
