@@ -10,6 +10,11 @@ Here in this project i have a named entity recognition model using Long Short Te
 
 
 LSTM architecture
+
+
+
+
+
 ![1_hG4zBCCRq18oi8aarj-owA](https://user-images.githubusercontent.com/102478403/193466500-3fffe566-0faf-4663-9100-76dfd1193c4d.png)
 
 
